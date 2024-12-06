@@ -1,0 +1,171 @@
+[
+    {
+        "id": "b7aacae345ab1e95",
+        "type": "tab",
+        "label": "Flow 6",
+        "disabled": false,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "2b4f5f80f19ab8b8",
+        "type": "mqtt in",
+        "z": "b7aacae345ab1e95",
+        "name": "Escuchar Proximidad",
+        "topic": "bldh/proximidad",
+        "qos": "2",
+        "datatype": "auto",
+        "broker": "569d4513d98f881b",
+        "nl": false,
+        "rap": false,
+        "inputs": 0,
+        "x": 280,
+        "y": 140,
+        "wires": [
+            [
+                "96b6f74a49c94edb"
+            ]
+        ]
+    },
+    {
+        "id": "96b6f74a49c94edb",
+        "type": "debug",
+        "z": "b7aacae345ab1e95",
+        "name": "Mensaje Proximidad",
+        "active": false,
+        "console": "false",
+        "complete": "true",
+        "x": 490,
+        "y": 140,
+        "wires": []
+    },
+    {
+        "id": "ccf2e408c42e27da",
+        "type": "mqtt out",
+        "z": "b7aacae345ab1e95",
+        "name": "Enviar Comando Canción",
+        "topic": "bldh/comando",
+        "qos": "2",
+        "retain": "false",
+        "respTopic": "",
+        "contentType": "",
+        "userProps": "",
+        "correl": "",
+        "expiry": "",
+        "broker": "569d4513d98f881b",
+        "x": 490,
+        "y": 240,
+        "wires": []
+    },
+    {
+        "id": "1d6755bc4ed62bf6",
+        "type": "ui_button",
+        "z": "b7aacae345ab1e95",
+        "name": "",
+        "group": "e6a0a09f26f9828c",
+        "order": 1,
+        "width": 0,
+        "height": 0,
+        "passthru": false,
+        "label": "button",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "",
+        "className": "",
+        "icon": "",
+        "payload": "jingle_bells",
+        "payloadType": "str",
+        "topic": "comando",
+        "topicType": "msg",
+        "x": 210,
+        "y": 360,
+        "wires": [
+            [
+                "ccf2e408c42e27da"
+            ]
+        ]
+    },
+    {
+        "id": "0a68125bbe5bd43e",
+        "type": "ui_switch",
+        "z": "b7aacae345ab1e95",
+        "name": "",
+        "label": "switch",
+        "tooltip": "",
+        "group": "e6a0a09f26f9828c",
+        "order": 1,
+        "width": 0,
+        "height": 0,
+        "passthru": true,
+        "decouple": "false",
+        "topic": "comando",
+        "topicType": "msg",
+        "style": "",
+        "onvalue": "jingle_bells",
+        "onvalueType": "str",
+        "onicon": "",
+        "oncolor": "",
+        "offvalue": "false",
+        "offvalueType": "bool",
+        "officon": "",
+        "offcolor": "",
+        "animate": false,
+        "className": "",
+        "x": 250,
+        "y": 240,
+        "wires": [
+            [
+                "ccf2e408c42e27da"
+            ]
+        ]
+    },
+    {
+        "id": "569d4513d98f881b",
+        "type": "mqtt-broker",
+        "name": "",
+        "broker": "broker.emqx.io",
+        "port": "1883",
+        "clientid": "",
+        "autoConnect": true,
+        "usetls": false,
+        "protocolVersion": "4",
+        "keepalive": "60",
+        "cleansession": true,
+        "autoUnsubscribe": true,
+        "birthTopic": "",
+        "birthQos": "0",
+        "birthRetain": "false",
+        "birthPayload": "",
+        "birthMsg": {},
+        "closeTopic": "",
+        "closeQos": "0",
+        "closeRetain": "false",
+        "closePayload": "",
+        "closeMsg": {},
+        "willTopic": "",
+        "willQos": "0",
+        "willRetain": "false",
+        "willPayload": "",
+        "willMsg": {},
+        "userProps": "",
+        "sessionExpiry": ""
+    },
+    {
+        "id": "e6a0a09f26f9828c",
+        "type": "ui_group",
+        "name": "Group 1",
+        "tab": "27cba59c255915a1",
+        "order": 1,
+        "disp": true,
+        "width": 6
+    },
+    {
+        "id": "27cba59c255915a1",
+        "type": "ui_tab",
+        "name": "TACHO",
+        "icon": "dashboard",
+        "order": 8,
+        "disabled": false,
+        "hidden": false
+    }
+]
