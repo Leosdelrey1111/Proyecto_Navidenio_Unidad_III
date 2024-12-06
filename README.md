@@ -94,9 +94,7 @@ Enlace del video: https://vm.tiktok.com/ZMkempgPq/
 
 # Código
 Cerdito con alas: https://github.com/FanyRM/Proyecto_NavCL/blob/main/motorCerdito.py
-
 Alpaca y capibara: https://github.com/FanyRM/Proyecto_NavCL/blob/main/AlpacaCode.py
-
 Árbol de navidad: https://github.com/FanyRM/Proyecto_NavCL/blob/main/arbol.py
 
 
@@ -109,4 +107,11 @@ Alpaca y capibara: https://github.com/FanyRM/Proyecto_NavCL/blob/main/AlpacaCode
 | Negativo | Aunque ha mejorado en su colaboración, aún no se destaca por aportar ideas creativas y no tiende a ofrecer apoyo cuando identifica dificultades en el equipo (que solo somos dos, hombre, si me vez burra no me dejes ahogar sola). Tiende a distraerse fácilmente utilizando el celular o enfocándose en actividades ajenas al proyecto (yo también quería acostarme un ratito ese día), lo que afecta su productividad y la mía. Le falta iniciativa para ser más creativo y proponer soluciones originales. Además, todavía es algo reservado y no comunica con claridad lo que le molesta, lo que puede complicar el trabajo en equipo, y me da paja que si esta molesto no me lo diga y se porte todo borde... No soy adivina.|
 | A mejorar | Puede enfocarse en desarrollar mayor creatividad y aportar ideas innovadoras al proyecto. También sería valioso que trabaje en su disposición para ayudar a otros compañeros cuando enfrentan dificultades. Mejorar su gestión del tiempo y reducir distracciones aumentará su eficacia. Adicionalmente, puede fortalecer su comunicación para expresar mejor sus opiniones y emociones, lo que podría fomentar un entorno de equipo más colaborativo y empático. Pero de ahí en más todo bien |
 
+| Aspecto | Comentario | 
+|--------------|--------------|
+| Nombre del alumno  a evaluar | Ramirez Matehuala Celeste Estefania |
+| Número de control | 1223100435 |
+| Positivo | Mi companiera es muy buena en la logica de disenio y como se podria llevar acabo la funcionalida del proyecto, le sabe y l;a verdad es muy buena e stoy muy sorprendido y orgulloso de como es debido a su gran trabajo y desempenio en el trabajo |
+| Negativo | Debido a que tiene ideas tan extravagantes y buenas, no sabe como expresarlas de manera clara y gracias a eso no nos comunicamos de manera correcta y se molesto mucho por no poder comprender exactamente como lo queria, entonces su descontrol de mal humor y discuciones era muy seguida de ella y mia, por el hecho de que no congeniabamos mucho por eso |
+| A mejorar | Puede llegar a mejorar su control de emocion o comprension y empatia porque era muy de quiero hacer esto y lo quiero asi, pero siemnmto que solo se enfocaba en querer hacerlo de una manera y las tareas las tenia mal organizadas, pero solo mejorar su control y organizacion de ideas en expresion |
 
