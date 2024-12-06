@@ -57,16 +57,38 @@ En este proyecto planteamos la idea de crear una alpaca (Una alpaca es un animal
 | Escarcha verde brillosa | Usado para crear el arbón | 6 mtrs | $42.00 |
 | Palitos de madera | Usado para darle forma a algunos articulos dentro de la alpaca | 1 pack | $23.00 |
 | Abatelenguas | Usados para sostener el arbón en la base de triplay | 1 pack | $.00|
-| Barras de siliocón ||| $.00|
+| Barras de siliocón | Usada para pegar muchas cosas | 30 pzas | $90.00|
 
 #### -- Herramientas
 | Herramienta | Descripción de uso | 
 |--------------|--------------|
-| Cautin |  | 
-| |  | 
-| |  | 
-| |  | 
-| Alambre de estaño | Usado para soldar|
+| Cautin tipo lapiz | Esta fue nuestra principal herramienta; la usamos para crear las estructuras básicas de la alpaca y el árbol. Estas figuras se formaron con alambre y se fijaron mediante el uso del cautín. | 
+| Pinzas de corte | Utilizadas para cortar el alambre y otros materiales con precisión durante la formación de las estructuras. | 
+| Desatornillador | Herramienta empleada para ajustar o retirar tornillos al ensamblar partes del proyecto. | 
+| Segueta | Utilizada para cortar materiales más resistentes, como madera o plástico, para dar forma a ciertas piezas. | 
+| Lija | Usada para alisar y pulir superficies, eliminando imperfecciones en los materiales utilizados. | 
+| Cuter | Herramienta para realizar cortes precisos en materiales como cartón, plástico o cinta adhesiva. | 
+| Tijeras | Utilizadas para cortar materiales más ligeros, como papel, tela o cinta. | 
+| Alambre de estaño | Usado para realizar soldaduras, principalmente en la fijación de componentes electrónicos o estructurales.|
 
 ### Tecnologías
+| Tecnología | Descripción de uso | 
+|--------------|--------------|
+| Node-red | Herramienta de desarrollo basada en flujo para conectar dispositivos, servicios y APIs mediante nodos. Ideal para IoT y automatización. |
+| Thony | Entorno de desarrollo integrado (IDE) ligero diseñado para enseñar y programar en Python, ideal para principiantes. |
+| MicroPhyton | Implementación de Python optimizada para microcontroladores y dispositivos embebidos, utilizada para programar hardware de bajo nivel. |
+
+# Evidencia de proyecto
+
+![Imagen de WhatsApp 2024-12-04 a las 23 29 53_d4d3b89e](https://github.com/user-attachments/assets/36ba4971-4845-4cde-a1d3-d6bf834c9490)
+![Imagen de WhatsApp 2024-12-04 a las 23 30 18_b7c1060b](https://github.com/user-attachments/assets/781dc196-11f5-4345-b8ac-f77466b86759)
+![Imagen de WhatsApp 2024-12-04 a las 23 30 43_6bad02ba](https://github.com/user-attachments/assets/3800ca55-825e-4ded-91c5-229015af247e)
+![Imagen de WhatsApp 2024-12-04 a las 23 30 45_2a8abf00](https://github.com/user-attachments/assets/85b54dbb-9a92-4b6b-a23a-2bdbda8783d1)
+
+
+# Video en tiktok
+Enlace del video: https://vm.tiktok.com/ZMkempgPq/ 
+
+#Retroalimentación
+
 
