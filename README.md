@@ -84,11 +84,24 @@ En este proyecto planteamos la idea de crear una alpaca (Una alpaca es un animal
 ![Imagen de WhatsApp 2024-12-04 a las 23 30 18_b7c1060b](https://github.com/user-attachments/assets/781dc196-11f5-4345-b8ac-f77466b86759)
 ![Imagen de WhatsApp 2024-12-04 a las 23 30 43_6bad02ba](https://github.com/user-attachments/assets/3800ca55-825e-4ded-91c5-229015af247e)
 ![Imagen de WhatsApp 2024-12-04 a las 23 30 45_2a8abf00](https://github.com/user-attachments/assets/85b54dbb-9a92-4b6b-a23a-2bdbda8783d1)
+![Imagen de WhatsApp 2024-12-06 a las 09 15 48_742d4106](https://github.com/user-attachments/assets/aec8352f-51e6-49a3-b69a-d3889320a033)
+![Imagen de WhatsApp 2024-12-06 a las 13 40 43_736c2c99](https://github.com/user-attachments/assets/70fd3d65-a5b5-43c0-9e31-34fbcd9ec177)
+![Imagen de WhatsApp 2024-12-06 a las 13 40 50_1c98f6ae](https://github.com/user-attachments/assets/4d4e70d2-084d-49fa-93a3-c6dd39d7ad94)
 
 
 # Video en tiktok
 Enlace del video: https://vm.tiktok.com/ZMkempgPq/ 
 
-#Retroalimentación
+# Código
+
+
+# Retroalimentación
+| Aspecto | Comentario | 
+|--------------|--------------|
+| Nombre del alumno  a evaluar | Hernandez Diaz Brayan Leonel |
+| Número de control | 1223100409 |
+| Positivo | Mi compañero ha demostrado que puede colaborar en la actividad y en la participación de opiniones, aportando más cosas que en la unidad pasada. Fue fundamental en la contribución económica del proyecto, supo equilibrar lo gastos, lo que fue muy confortable. También acata bien las instrucciones y es proactivo al corregir errores cuando estos surgen. Tiene una notable capacidad para investigar y aprender por su cuenta cuando no domina un tema, y siempre busca sacar lo mejor en los resultados. Hace milagros. |
+| Negativo | Aunque ha mejorado en su colaboración, aún no se destaca por aportar ideas creativas y no tiende a ofrecer apoyo cuando identifica dificultades en el equipo (que solo somos dos, hombre, si me vez burra no me dejes ahogar sola). Tiende a distraerse fácilmente utilizando el celular o enfocándose en actividades ajenas al proyecto (yo también quería acostarme un ratito ese día), lo que afecta su productividad y la mía. Le falta iniciativa para ser más creativo y proponer soluciones originales. Además, todavía es algo reservado y no comunica con claridad lo que le molesta, lo que puede complicar el trabajo en equipo, y me da paja que si esta molesto no me lo diga y se porte todo borde... No soy adivina.|
+| A mejorar | Puede enfocarse en desarrollar mayor creatividad y aportar ideas innovadoras al proyecto. También sería valioso que trabaje en su disposición para ayudar a otros compañeros cuando enfrentan dificultades. Mejorar su gestión del tiempo y reducir distracciones aumentará su eficacia. Adicionalmente, puede fortalecer su comunicación para expresar mejor sus opiniones y emociones, lo que podría fomentar un entorno de equipo más colaborativo y empático. Pero de ahí en más todo bien |
 
 
