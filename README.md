@@ -93,6 +93,9 @@ En este proyecto planteamos la idea de crear una alpaca (Una alpaca es un animal
 Enlace del video: https://vm.tiktok.com/ZMkempgPq/ 
 
 # Código
+Cerdito con alas: https://github.com/FanyRM/Proyecto_NavCL/blob/main/motorCerdito.py
+Alpaca y capibara: 
+Árbol de navidad: 
 
 
 # Retroalimentación
