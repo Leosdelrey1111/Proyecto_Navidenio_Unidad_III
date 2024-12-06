@@ -94,8 +94,8 @@ Enlace del video: https://vm.tiktok.com/ZMkempgPq/
 
 # Código
 Cerdito con alas: https://github.com/FanyRM/Proyecto_NavCL/blob/main/motorCerdito.py
-Alpaca y capibara: 
-Árbol de navidad: 
+Alpaca y capibara: https://github.com/FanyRM/Proyecto_NavCL/blob/main/AlpacaCode.py
+Árbol de navidad: https://github.com/FanyRM/Proyecto_NavCL/blob/main/arbol.py
 
 
 # Retroalimentación
